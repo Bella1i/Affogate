@@ -5,8 +5,7 @@
 
 Multitask Sentiment Analysis Powered by GPT-3.5
 
-![Sentiment Analysis](https://github.com/Bella1i/MLSA/assets/87021559/56e39a24-199c-4299-bf09-547ac8368892)
-![Analysis Results](https://github.com/Bella1i/MLSA/assets/87021559/e8ece483-5534-4267-afe2-3bc197bd613e)
+![Analysis Results](https://github.com/user-attachments/assets/dac332ec-a9c0-4f7f-a9be-8f032f0506ed)
 
 ## Overview
 The MultiLingual Sentiment Analyzer is a comprehensive system designed to analyze user feedback on products and services. Leveraging the power of GPT-3.5, this tool extracts sentiment orientation, intensity, intentions, keywords, and other crucial insights from user comments. It supports multiple languages, making it versatile for global applications. This project is ideal for analyzing various types of user feedback, such as suggestions, complaints, and bug reports, helping businesses better understand their customers and improve their offerings.
